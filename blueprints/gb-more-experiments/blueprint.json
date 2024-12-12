@@ -1,7 +1,7 @@
 {
 	"$schema": "https://playground.wordpress.net/blueprint-schema.json",
 	"meta": {
-		"title": "Enable all Dataview Experiments in Gutenberg",
+		"title": "Enable all three Dataview Experiments in Gutenberg",
 		"author": "bph",
 		"description": "Blueprint example to enable multiple Experiments within the Gutenberg plugin ",
 		"categories": ["Gutenberg", "Experiments"]
