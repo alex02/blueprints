@@ -15,7 +15,7 @@
 	},
 	"plugins": [
 		"create-block-theme"
-	]
+	],
 	"steps": [
 		{
 			"step": "login"
