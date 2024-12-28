@@ -4,10 +4,7 @@
 		"title": "Export/Import ACF Data",
 		"description": "Demonstrates how to export and import Advanced Custom Fields data using the Custom Fields Snapshots plugin.",
 		"author": "alex02",
-		"categories": [
-			"Content",
-            "CPT"
-		]
+		"categories": ["Content", "CPT"]
 	},
 	"landingPage": "/wp-admin/tools.php?page=custom-fields-snapshots",
 	"steps": [
