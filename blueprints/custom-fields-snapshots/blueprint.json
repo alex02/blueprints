@@ -2,7 +2,7 @@
 	"$schema": "https://playground.wordpress.net/blueprint-schema.json",
 	"meta": {
 		"title": "Export/Import ACF Data",
-		"description": "Demonstrates how to export and import Advanced Custom Fields data using the Custom Fields Snapshots plugin.",
+		"description": "Sets up an environment for exporting and importing Advanced Custom Fields (ACF) data with the Custom Fields Snapshots plugin.",
 		"author": "alex02",
 		"categories": ["Content", "CPT"]
 	},
